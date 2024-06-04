@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(81, 160, 81);
+}
+
+nav{
+    background-color: rgb(110, 245, 200);
+    height: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: red;
+    padding: 20px;
+}
+
+nav a:hover{
+    color: white;
+    border: 48px, 0px ,48px;
+    border-radius: 8px;
+}
+
+marquee{
+    background-color: white;
+}
+
+h1{
+    text-align: center
+}
+
+p{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+i{
+    font-size: 40px;
+}
+header h2{
+    text-align: center;
+    background-color: rgb(228, 35, 35);
+    font-size: 40px;
+    color: white;
+}
+
+.smart{
+    height: auto;
+    width: 50%;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.smart ol li{
+    color: white;
+    font-size: 30px;
+}
+
+header{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 50px;
+}
+
+header i{
+    color: white;
+font-size: 20px;
+text-align: center;
+}
+
+ header textarea{
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+footer marquee{
+    background-color: whitesmoke;
+    height: 70px;
+}
+
+footer marquee h2{
+    font-size: 30px;
+}

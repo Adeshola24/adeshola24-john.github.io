@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(81, 160, 81);
+}
+
+nav{
+    background-color: rgb(110, 245, 200);
+    height: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: red;
+    padding: 20px;
+}
+
+nav a:hover{
+    color: white;
+}
+
+marquee{
+    background-color: white;
+}
+
+h1{
+    text-align: center
+}
+
+.home img{
+    width: 250px;
+    height: 300px;
+    float: right;
+    border-radius: 100px;
+}
+
+.home p{
+    font-size: 30px;
+}
+
+header{
+    background-color: rgb(46, 34, 34);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 50px;
+}
+
+header i{
+    color: white;
+font-size: 20px;
+text-align: center;
+}
+
+ header textarea{
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+footer marquee{
+    background-color: whitesmoke;
+    height: 70px;
+}
+
+footer marquee h2{
+    font-size: 30px;
+}
